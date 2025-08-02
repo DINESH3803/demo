@@ -1,4 +1,4 @@
 # demo
 this is my repo,
 <br>
-author - prof DK
+author - prof Dkarthik
